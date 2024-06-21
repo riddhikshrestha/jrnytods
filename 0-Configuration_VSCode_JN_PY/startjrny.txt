@@ -1,0 +1,9 @@
+# download anaconda distribution and install it
+# install vs code 
+# open terminal on vscode
+# create env using vscode:
+    conda create -p venv python=3.12
+    conda activate venv/
+    create a new working project > inside it create requirements.txt and add your require packages
+    e.g. ipykernel   => which will help you to run ipykernel inside your vscode envirnemt as jupyternotebook
+    
