@@ -1,0 +1,10 @@
+Multi-threading and Multi Processing
+-------------------------------------
+1) Program : A program is a sequence of instructions written in programming languages. e.g. Python, C, C++ etc.
+            E.g. Google Chrome-> .exe <- Program -> Browser should work
+2) Process : A process is simply an instance of a program that is being executed. e.g. If i have google chrome installed, & if
+            I double click on chrome icon , process is started. each browser is a process.
+            Process required OS resouces. i.e. Heap, stack, registers, code segment, data segment etc.
+            Every process when run have a separate memory space. due to which one process can't corrupt another process.
+3) Threads : A thread is a unit of execution within a process. e.g MS Paint(process) -> Create rectangle(thread)
+                                                                                     -> Create circle(thread)   
