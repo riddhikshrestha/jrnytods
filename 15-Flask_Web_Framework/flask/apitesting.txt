@@ -1,0 +1,9 @@
+Download and install postman app on your desktop:
+
+Open your API test on your desktop:
+copy the api url from your local run. and paste it to the url section and choose POST method
+and pass your required form content on body section.
+choose: raw
+     convert the option to JSON if not selected by default it would be Text.
+
+{"name":"New Item","description": "This is a new item."}
